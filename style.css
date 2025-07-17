@@ -34,6 +34,8 @@ body {
         font-size: 6rem;
         line-height: 1;
         margin: 1rem 2rem;
+        min-width: 110px;
+        max-width: 110px;
       }
 
       span {
